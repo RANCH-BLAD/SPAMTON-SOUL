@@ -1,0 +1,3206 @@
+{
+ "ch2": [
+  {
+   "offset": 12065308,
+   "text": "* THEN [[Why]] GO TO A DUMPSTER!!!/"
+  },
+  {
+   "offset": 12065552,
+   "text": "* THat'll be 1997 KROMER."
+  },
+  {
+   "offset": 12129060,
+   "text": "Spamton NE"
+  },
+  {
+   "offset": 12136036,
+   "text": "* DON'T YOU WANNA BE A BIG SHOT"
+  },
+  {
+   "offset": 12136136,
+   "text": "* It's time to be a BIG SHOT"
+  },
+  {
+   "offset": 12140756,
+   "text": "Heavenly light restores a little HP to#one party member. Depends on Magic"
+  },
+  {
+   "offset": 12261516,
+   "text": "gml_Script_scr_spamton_hea"
+  },
+  {
+   "offset": 12261548,
+   "text": "scr_spamton_hea"
+  },
+  {
+   "offset": 12281660,
+   "text": "spamton_neo_meeting.og"
+  },
+  {
+   "offset": 12282784,
+   "text": "spamton_neo_mix_ex_wip.og"
+  },
+  {
+   "offset": 12290588,
+   "text": "* HOLY [[Cungadero]] DO I FEEL GOOD .../"
+  },
+  {
+   "offset": 12344920,
+   "text": "* Hope when he becomes a big shot^1, he remembers us little guys down the street."
+  },
+  {
+   "offset": 12356760,
+   "text": "* Spamton? ..^1. Haven't heard that name in a long time./"
+  },
+  {
+   "offset": 12356868,
+   "text": "* Spamton? ..^1. We don't talk about that around here./"
+  },
+  {
+   "offset": 12358364,
+   "text": "* Spamton? ..^1. No idea who you're talking about./"
+  },
+  {
+   "offset": 12381356,
+   "text": "* Spamton? This used to be his room..."
+  },
+  {
+   "offset": 12382020,
+   "text": "* Your room? It belonged to a prestigious big shot.../"
+  },
+  {
+   "offset": 12384292,
+   "text": "* I mean^1, wasn't he a big shot?"
+  },
+  {
+   "offset": 12385432,
+   "text": "* I'm gonna be a big shot!\"/"
+  },
+  {
+   "offset": 12499812,
+   "text": "* BIG SHOT AUTOS^1! TAKE A RIDE AROUND TOWN IN OUR SPECIAL"
+  },
+  {
+   "offset": 12519516,
+   "text": "spamton_basement.og"
+  },
+  {
+   "offset": 12620836,
+   "text": "Happy new&year 1997"
+  },
+  {
+   "offset": 12689920,
+   "text": "kromer_messag"
+  },
+  {
+   "offset": 12689956,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_20_"
+  },
+  {
+   "offset": 12690024,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_26_"
+  },
+  {
+   "offset": 12690088,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_32_"
+  },
+  {
+   "offset": 12690196,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_41_"
+  },
+  {
+   "offset": 12690276,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_47_"
+  },
+  {
+   "offset": 12690344,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_50_"
+  },
+  {
+   "offset": 12690448,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_120_"
+  },
+  {
+   "offset": 12690576,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_123_"
+  },
+  {
+   "offset": 12690700,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_127_"
+  },
+  {
+   "offset": 12690784,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_128_"
+  },
+  {
+   "offset": 12690832,
+   "text": "* Spamton mutters \"1997."
+  },
+  {
+   "offset": 12690864,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_129_"
+  },
+  {
+   "offset": 12690912,
+   "text": "* Smells like KROMER"
+  },
+  {
+   "offset": 12690940,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_130_"
+  },
+  {
+   "offset": 12691060,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_131_"
+  },
+  {
+   "offset": 12691108,
+   "text": "* Spamton flashes an award-losing smile"
+  },
+  {
+   "offset": 12691180,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_153_"
+  },
+  {
+   "offset": 12691228,
+   "text": "* SPAMTON - He wants to make a \\cYDEAL\\c0, but don't give him your \\cYMONEY\\c0!/"
+  },
+  {
+   "offset": 12691316,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_164_"
+  },
+  {
+   "offset": 12691384,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_165_"
+  },
+  {
+   "offset": 12691452,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_172_"
+  },
+  {
+   "offset": 12691580,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_173_"
+  },
+  {
+   "offset": 12691628,
+   "text": "\\M2MY EYES ARE [[Burning]]&LIKE [[DVDs of ANY&movie at Half-pr1ce!]]"
+  },
+  {
+   "offset": 12691704,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_174_"
+  },
+  {
+   "offset": 12691804,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_178_"
+  },
+  {
+   "offset": 12691916,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_185_"
+  },
+  {
+   "offset": 12691980,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_186_"
+  },
+  {
+   "offset": 12692044,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_193_"
+  },
+  {
+   "offset": 12692124,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_194_"
+  },
+  {
+   "offset": 12692240,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_196_"
+  },
+  {
+   "offset": 12692288,
+   "text": "\\M3I NEED A LITTLE&[[Genorisity]]/"
+  },
+  {
+   "offset": 12692328,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_200_"
+  },
+  {
+   "offset": 12692428,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_207_"
+  },
+  {
+   "offset": 12692500,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_208_"
+  },
+  {
+   "offset": 12692564,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_215_"
+  },
+  {
+   "offset": 12692644,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_216_"
+  },
+  {
+   "offset": 12692716,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_218_"
+  },
+  {
+   "offset": 12692824,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_220_"
+  },
+  {
+   "offset": 12692924,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_221_"
+  },
+  {
+   "offset": 12692972,
+   "text": "\\M1[Hyperlink Blocked]"
+  },
+  {
+   "offset": 12693000,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_222_"
+  },
+  {
+   "offset": 12693088,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_224_"
+  },
+  {
+   "offset": 12693136,
+   "text": "\\M2DON'T YOU W4NT TO BE&JUST LIKE YOUR OLD&PAL SPAMTON????"
+  },
+  {
+   "offset": 12693200,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_225_"
+  },
+  {
+   "offset": 12693272,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_229_"
+  },
+  {
+   "offset": 12693364,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_236_"
+  },
+  {
+   "offset": 12693432,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_237_"
+  },
+  {
+   "offset": 12693496,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_244_"
+  },
+  {
+   "offset": 12693600,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_245_"
+  },
+  {
+   "offset": 12693648,
+   "text": "\\M4ONLY FOR THE&LOW^1, LOW PRICE&OF 1000 KROMER."
+  },
+  {
+   "offset": 12693704,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_246_"
+  },
+  {
+   "offset": 12693752,
+   "text": "\\M5AN AWESOME PRICE.!&AN ABSOLUTELY&[[Terrifying]] PRICE"
+  },
+  {
+   "offset": 12693816,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_247_"
+  },
+  {
+   "offset": 12693864,
+   "text": "\\M6PRICES SO LOW^1,&EVERYONE I KNOW IS&[[Dead]]!!!/"
+  },
+  {
+   "offset": 12693924,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_251_"
+  },
+  {
+   "offset": 12694024,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_258_"
+  },
+  {
+   "offset": 12694100,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_259_"
+  },
+  {
+   "offset": 12694160,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_266_"
+  },
+  {
+   "offset": 12694252,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_267_"
+  },
+  {
+   "offset": 12694372,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_268_"
+  },
+  {
+   "offset": 12694420,
+   "text": "\\M2THEN YOU CAN ENJ0Y&1000 Fr3e KROmer/"
+  },
+  {
+   "offset": 12694468,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_272_"
+  },
+  {
+   "offset": 12694568,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_299_"
+  },
+  {
+   "offset": 12694664,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_300_"
+  },
+  {
+   "offset": 12694712,
+   "text": "\\M2DEALS LIKE THIS&ONLY COME ONCE IN&YOUR [[Ant-sized]]&[[Rapidly-shrinking]]&LIFE!!/"
+  },
+  {
+   "offset": 12694804,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_304_"
+  },
+  {
+   "offset": 12694920,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_317_"
+  },
+  {
+   "offset": 12695020,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_318_"
+  },
+  {
+   "offset": 12695132,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_323_"
+  },
+  {
+   "offset": 12695180,
+   "text": "\\M2YUM YUM.&DELICIS KROMER."
+  },
+  {
+   "offset": 12695216,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_324_"
+  },
+  {
+   "offset": 12695296,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_346_"
+  },
+  {
+   "offset": 12695408,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_348_"
+  },
+  {
+   "offset": 12695456,
+   "text": "\\M2THAT's [[Discomfort&And Abdominal&Pain]] IN MY&[[Guts]]!!/"
+  },
+  {
+   "offset": 12695524,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_353_"
+  },
+  {
+   "offset": 12695620,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_354_"
+  },
+  {
+   "offset": 12695720,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_356_"
+  },
+  {
+   "offset": 12695832,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_368_"
+  },
+  {
+   "offset": 12695936,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_369_"
+  },
+  {
+   "offset": 12696044,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_370_"
+  },
+  {
+   "offset": 12696160,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_374_"
+  },
+  {
+   "offset": 12696208,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_375_"
+  },
+  {
+   "offset": 12696256,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_396_"
+  },
+  {
+   "offset": 12696320,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_397_"
+  },
+  {
+   "offset": 12696384,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_400_"
+  },
+  {
+   "offset": 12696472,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_401_"
+  },
+  {
+   "offset": 12696584,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_402_"
+  },
+  {
+   "offset": 12696652,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_403_"
+  },
+  {
+   "offset": 12696748,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_404_"
+  },
+  {
+   "offset": 12696868,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_405_"
+  },
+  {
+   "offset": 12696916,
+   "text": "\\M1[Hyperlink Blocked]."
+  },
+  {
+   "offset": 12696948,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_406_"
+  },
+  {
+   "offset": 12697036,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_407_"
+  },
+  {
+   "offset": 12697148,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_413_"
+  },
+  {
+   "offset": 12697232,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_414_"
+  },
+  {
+   "offset": 12697328,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_452_"
+  },
+  {
+   "offset": 12697392,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_464_"
+  },
+  {
+   "offset": 12697472,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_465_"
+  },
+  {
+   "offset": 12697572,
+   "text": "obj_spamton_enemy_slash_Step_0_gml_415_"
+  },
+  {
+   "offset": 12697620,
+   "text": "* (You felt your KROMER being absorbed...)&* (Wrong choice...?)/"
+  },
+  {
+   "offset": 12697844,
+   "text": "obj_spamton_attack_mode_slash_Step_0_gml_69_"
+  },
+  {
+   "offset": 12697912,
+   "text": "obj_spamton_attack_mode_slash_Step_0_gml_69_"
+  },
+  {
+   "offset": 12697980,
+   "text": "obj_spamton_attack_mode_slash_Step_0_gml_69_"
+  },
+  {
+   "offset": 12698048,
+   "text": "obj_spamton_attack_mode_slash_Step_0_gml_69_"
+  },
+  {
+   "offset": 12698116,
+   "text": "obj_spamton_attack_mode_slash_Step_0_gml_69_"
+  },
+  {
+   "offset": 12698184,
+   "text": "obj_spamton_attack_mode_slash_Step_0_gml_69_"
+  },
+  {
+   "offset": 12698252,
+   "text": "obj_spamton_attack_mode_slash_Step_0_gml_69_"
+  },
+  {
+   "offset": 12698340,
+   "text": "obj_spamton_attack_mode_slash_Step_0_gml_70_"
+  },
+  {
+   "offset": 12698392,
+   "text": "obj_spamton_attack_mode_slash_Step_0_gml_70_"
+  },
+  {
+   "offset": 12706868,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_86_0_"
+  },
+  {
+   "offset": 12706988,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_87_0_"
+  },
+  {
+   "offset": 12707076,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_88_"
+  },
+  {
+   "offset": 12707164,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_89_"
+  },
+  {
+   "offset": 12707264,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_90_"
+  },
+  {
+   "offset": 12707368,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_91_"
+  },
+  {
+   "offset": 12707444,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_64_0_"
+  },
+  {
+   "offset": 12707496,
+   "text": "I REMEMBER WHEN&YOU WERE JUST&A LOST [Little Sponge]/"
+  },
+  {
+   "offset": 12707556,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_65_0_"
+  },
+  {
+   "offset": 12707660,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_66_0_"
+  },
+  {
+   "offset": 12707792,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_67_0_"
+  },
+  {
+   "offset": 12707908,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_68_0_"
+  },
+  {
+   "offset": 12708012,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_69_0_"
+  },
+  {
+   "offset": 12708064,
+   "text": "YOU'VE BEEN&MAKING&[Hyperlink Blocked]!/"
+  },
+  {
+   "offset": 12708112,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_70_0_"
+  },
+  {
+   "offset": 12708204,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_71_0_"
+  },
+  {
+   "offset": 12708328,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_72_0_"
+  },
+  {
+   "offset": 12708444,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_73_0_"
+  },
+  {
+   "offset": 12708548,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_56_"
+  },
+  {
+   "offset": 12708596,
+   "text": "KRIS! ISN'T THIS&[Body] JUST [Heaven]LY!?/"
+  },
+  {
+   "offset": 12708644,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_57_"
+  },
+  {
+   "offset": 12708760,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_58_0_"
+  },
+  {
+   "offset": 12708848,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_59_0_"
+  },
+  {
+   "offset": 12708964,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_60_"
+  },
+  {
+   "offset": 12709068,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_61_"
+  },
+  {
+   "offset": 12709176,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_62_"
+  },
+  {
+   "offset": 12709272,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_63_0_"
+  },
+  {
+   "offset": 12709392,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_64_0_"
+  },
+  {
+   "offset": 12709444,
+   "text": "DON'T YOU&WANNA HELP YOUR&OLD PAL SPAMTON?/"
+  },
+  {
+   "offset": 12709496,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_65_"
+  },
+  {
+   "offset": 12709600,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_66_"
+  },
+  {
+   "offset": 12709724,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_67_"
+  },
+  {
+   "offset": 12709844,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_69_0_"
+  },
+  {
+   "offset": 12709940,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_121_"
+  },
+  {
+   "offset": 12710028,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_93_"
+  },
+  {
+   "offset": 12710140,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_86_"
+  },
+  {
+   "offset": 12710228,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_87_"
+  },
+  {
+   "offset": 12710308,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_58_"
+  },
+  {
+   "offset": 12710388,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_59_"
+  },
+  {
+   "offset": 12710436,
+   "text": "THE [@$@!] TASTE&OF SPAMTON/"
+  },
+  {
+   "offset": 12710472,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_63_"
+  },
+  {
+   "offset": 12710520,
+   "text": "DON'T YOU&WANNA BE A&BIG SHOT?/"
+  },
+  {
+   "offset": 12710560,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_64_"
+  },
+  {
+   "offset": 12710648,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_136_"
+  },
+  {
+   "offset": 12710780,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_137_"
+  },
+  {
+   "offset": 12710888,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_138_"
+  },
+  {
+   "offset": 12710996,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_139_"
+  },
+  {
+   "offset": 12711100,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_140_"
+  },
+  {
+   "offset": 12711216,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_141_"
+  },
+  {
+   "offset": 12711328,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_142_"
+  },
+  {
+   "offset": 12711436,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_143_"
+  },
+  {
+   "offset": 12711524,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_144_"
+  },
+  {
+   "offset": 12711620,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_145_"
+  },
+  {
+   "offset": 12711724,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_146_"
+  },
+  {
+   "offset": 12711868,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_147_"
+  },
+  {
+   "offset": 12711984,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_163_"
+  },
+  {
+   "offset": 12712064,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_173_"
+  },
+  {
+   "offset": 12712144,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_174_"
+  },
+  {
+   "offset": 12712240,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_175_"
+  },
+  {
+   "offset": 12712356,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_176_"
+  },
+  {
+   "offset": 12712452,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_177_"
+  },
+  {
+   "offset": 12712572,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_178_"
+  },
+  {
+   "offset": 12712692,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_179_"
+  },
+  {
+   "offset": 12712792,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_180_"
+  },
+  {
+   "offset": 12712916,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_181_"
+  },
+  {
+   "offset": 12712968,
+   "text": "WHEN YOU'RE [Crying]&IN A [Broken Home]&WISHING YOU LET&YOUR OLD PAL&SPAMTON/"
+  },
+  {
+   "offset": 12713052,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_182_"
+  },
+  {
+   "offset": 12713124,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_207_"
+  },
+  {
+   "offset": 12713252,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_208_"
+  },
+  {
+   "offset": 12713328,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_209_"
+  },
+  {
+   "offset": 12713380,
+   "text": "DON'T YOU WANNA&BE A [Big Shot]!?/"
+  },
+  {
+   "offset": 12713420,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_211_"
+  },
+  {
+   "offset": 12713520,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_212_"
+  },
+  {
+   "offset": 12713628,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_213_"
+  },
+  {
+   "offset": 12713728,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_214_"
+  },
+  {
+   "offset": 12713780,
+   "text": "* Spamton Neo's ATTACK dropped!&* Spamton Neo's DEFENSE rose greatly!/"
+  },
+  {
+   "offset": 12713856,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_217_"
+  },
+  {
+   "offset": 12713972,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_225_"
+  },
+  {
+   "offset": 12714068,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_227_"
+  },
+  {
+   "offset": 12714184,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_228_"
+  },
+  {
+   "offset": 12714280,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_229_"
+  },
+  {
+   "offset": 12714364,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_231_"
+  },
+  {
+   "offset": 12714456,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_232_"
+  },
+  {
+   "offset": 12714544,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_233_"
+  },
+  {
+   "offset": 12714640,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_235_"
+  },
+  {
+   "offset": 12714744,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_236_"
+  },
+  {
+   "offset": 12714824,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_238_"
+  },
+  {
+   "offset": 12714952,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_239_"
+  },
+  {
+   "offset": 12715040,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_240_"
+  },
+  {
+   "offset": 12715300,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_294_"
+  },
+  {
+   "offset": 12715392,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_295_"
+  },
+  {
+   "offset": 12715492,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_296_"
+  },
+  {
+   "offset": 12715584,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_297_"
+  },
+  {
+   "offset": 12715668,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_526_"
+  },
+  {
+   "offset": 12715720,
+   "text": "* Spamton NEO recovered HP with Pipis"
+  },
+  {
+   "offset": 12715764,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_527_"
+  },
+  {
+   "offset": 12715816,
+   "text": "* Spamton NEO's DEFENSE is towering"
+  },
+  {
+   "offset": 12715860,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_312_"
+  },
+  {
+   "offset": 12715912,
+   "text": "* Spamton looks to the heavens"
+  },
+  {
+   "offset": 12715948,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_313_"
+  },
+  {
+   "offset": 12716000,
+   "text": "* Hold and release ~1 to fire a BIG SHOT"
+  },
+  {
+   "offset": 12716048,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_316_"
+  },
+  {
+   "offset": 12716100,
+   "text": "* Spamton turns to the audience and laughs"
+  },
+  {
+   "offset": 12716148,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_317_"
+  },
+  {
+   "offset": 12716200,
+   "text": "* Spamton appeals to the audience with a festive jig"
+  },
+  {
+   "offset": 12716260,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_318_"
+  },
+  {
+   "offset": 12716312,
+   "text": "* Spamton begs to the audience, Spamton prays to the audience"
+  },
+  {
+   "offset": 12716380,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_319_"
+  },
+  {
+   "offset": 12716460,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_320_"
+  },
+  {
+   "offset": 12716512,
+   "text": "* Spamton begs the audience to stop taking the furniture out of his room"
+  },
+  {
+   "offset": 12716592,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_321_"
+  },
+  {
+   "offset": 12716644,
+   "text": "* Spamton feels the sweet breeze as he takes a ride around town"
+  },
+  {
+   "offset": 12716732,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_375_"
+  },
+  {
+   "offset": 12716784,
+   "text": "* SPAMTON NEO - YOU WON'T FIND HIGHER ATTACK AND DEFENSE ANYWHERE ELSE!!!"
+  },
+  {
+   "offset": 12716864,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_376_"
+  },
+  {
+   "offset": 12716984,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_377_"
+  },
+  {
+   "offset": 12717036,
+   "text": "* [[note: pain is in red.]] ./"
+  },
+  {
+   "offset": 12717072,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_381_"
+  },
+  {
+   "offset": 12717124,
+   "text": "* Spamton Neo - He is his own worst invention./"
+  },
+  {
+   "offset": 12717180,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_617_"
+  },
+  {
+   "offset": 12717264,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_618_"
+  },
+  {
+   "offset": 12717348,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_623_"
+  },
+  {
+   "offset": 12717440,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_637_"
+  },
+  {
+   "offset": 12717508,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_651_"
+  },
+  {
+   "offset": 12717604,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_667_"
+  },
+  {
+   "offset": 12717680,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_685_"
+  },
+  {
+   "offset": 12717796,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_701_"
+  },
+  {
+   "offset": 12717900,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_739_"
+  },
+  {
+   "offset": 12718000,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_531_"
+  },
+  {
+   "offset": 12718104,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_928_"
+  },
+  {
+   "offset": 12718176,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_581_"
+  },
+  {
+   "offset": 12718296,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_946_"
+  },
+  {
+   "offset": 12718400,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_949_"
+  },
+  {
+   "offset": 12718484,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_950_"
+  },
+  {
+   "offset": 12718560,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_961_"
+  },
+  {
+   "offset": 12718668,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_964_"
+  },
+  {
+   "offset": 12718752,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_275_"
+  },
+  {
+   "offset": 12718832,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_275_"
+  },
+  {
+   "offset": 12718884,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_973_"
+  },
+  {
+   "offset": 12718936,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_534_"
+  },
+  {
+   "offset": 12718988,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1127_"
+  },
+  {
+   "offset": 12719096,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1130_"
+  },
+  {
+   "offset": 12719184,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1131_"
+  },
+  {
+   "offset": 12719236,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1140_"
+  },
+  {
+   "offset": 12719288,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1141_"
+  },
+  {
+   "offset": 12719372,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_898_"
+  },
+  {
+   "offset": 12719496,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1273_"
+  },
+  {
+   "offset": 12719604,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1276_"
+  },
+  {
+   "offset": 12719692,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1277_"
+  },
+  {
+   "offset": 12719744,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1285_"
+  },
+  {
+   "offset": 12719796,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1288_"
+  },
+  {
+   "offset": 12719880,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_643_"
+  },
+  {
+   "offset": 12719992,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_643_"
+  },
+  {
+   "offset": 12720088,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_679_"
+  },
+  {
+   "offset": 12720236,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1492_"
+  },
+  {
+   "offset": 12720356,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1009_"
+  },
+  {
+   "offset": 12720444,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1034_"
+  },
+  {
+   "offset": 12720564,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1038_"
+  },
+  {
+   "offset": 12720668,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1042_"
+  },
+  {
+   "offset": 12720748,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1046_"
+  },
+  {
+   "offset": 12720860,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1052_"
+  },
+  {
+   "offset": 12721000,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1058_"
+  },
+  {
+   "offset": 12721100,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1062_"
+  },
+  {
+   "offset": 12721152,
+   "text": "I WILL FILL MY [Body]&WITH [Electricaty] AND BECOME&SPAMTON [EX]!/"
+  },
+  {
+   "offset": 12721224,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1068_"
+  },
+  {
+   "offset": 12721308,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1076_"
+  },
+  {
+   "offset": 12721408,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1083_"
+  },
+  {
+   "offset": 12721512,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1089_"
+  },
+  {
+   "offset": 12721616,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1095_"
+  },
+  {
+   "offset": 12721668,
+   "text": "I'M FINALLY GONNA&BE A BIG SHOT!!!/"
+  },
+  {
+   "offset": 12721712,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1101_"
+  },
+  {
+   "offset": 12721812,
+   "text": "shop_spamton_bg_co"
+  },
+  {
+   "offset": 12721836,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1172_"
+  },
+  {
+   "offset": 12721940,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1176_"
+  },
+  {
+   "offset": 12722048,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1181_"
+  },
+  {
+   "offset": 12722152,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1186_"
+  },
+  {
+   "offset": 12722204,
+   "text": "AFTER ALL THE&[Unforgettable D3als]&[Free KROMER] I&GAVE YOU/"
+  },
+  {
+   "offset": 12722272,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1190_"
+  },
+  {
+   "offset": 12722372,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1195_"
+  },
+  {
+   "offset": 12722488,
+   "text": "spamton_happy.og"
+  },
+  {
+   "offset": 12722512,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1202_"
+  },
+  {
+   "offset": 12722588,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1208_"
+  },
+  {
+   "offset": 12722700,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1212_"
+  },
+  {
+   "offset": 12722804,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1216_"
+  },
+  {
+   "offset": 12722856,
+   "text": "ARE YOU WATCHING,&[Heaven]!? IT'S&TIME FOR SPAMTON'S&[Comeback Special]!/"
+  },
+  {
+   "offset": 12722936,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1220_"
+  },
+  {
+   "offset": 12723032,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1225_"
+  },
+  {
+   "offset": 12723128,
+   "text": "obj_spamton_neo_enemy_slash_Step_0_gml_1229_"
+  },
+  {
+   "offset": 12723336,
+   "text": "obj_spamton_neo_enemy_slash_Other_11_gml_7_"
+  },
+  {
+   "offset": 12808212,
+   "text": "spamton_neo_after.og"
+  },
+  {
+   "offset": 12808252,
+   "text": "obj_shop_ch2_spamton_slash_Create_0_gml_89_"
+  },
+  {
+   "offset": 12808340,
+   "text": "obj_shop_ch2_spamton_slash_Create_0_gml_90_"
+  },
+  {
+   "offset": 12808444,
+   "text": "obj_shop_ch2_spamton_slash_Create_0_gml_91_"
+  },
+  {
+   "offset": 12808536,
+   "text": "obj_shop_ch2_spamton_slash_Create_0_gml_92_"
+  },
+  {
+   "offset": 12808620,
+   "text": "obj_shop_ch2_spamton_slash_Create_0_gml_147_"
+  },
+  {
+   "offset": 12808688,
+   "text": "obj_shop_ch2_spamton_slash_Create_0_gml_148_"
+  },
+  {
+   "offset": 12808760,
+   "text": "obj_shop_ch2_spamton_slash_Create_0_gml_153_"
+  },
+  {
+   "offset": 12808908,
+   "text": "spamtonalph"
+  },
+  {
+   "offset": 12808928,
+   "text": "spamton"
+  },
+  {
+   "offset": 12809360,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_272_"
+  },
+  {
+   "offset": 12809432,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_274_"
+  },
+  {
+   "offset": 12809480,
+   "text": "* HEY EVERY       !&* IT'S ME^1, SPAMTON G.& &SPAMTON"
+  },
+  {
+   "offset": 12809540,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_282_"
+  },
+  {
+   "offset": 12809596,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_283_"
+  },
+  {
+   "offset": 12809660,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_284_"
+  },
+  {
+   "offset": 12809720,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_285_"
+  },
+  {
+   "offset": 12809780,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_337_"
+  },
+  {
+   "offset": 12809844,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_339_"
+  },
+  {
+   "offset": 12809912,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_342_"
+  },
+  {
+   "offset": 12809976,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_352_"
+  },
+  {
+   "offset": 12810068,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_356_"
+  },
+  {
+   "offset": 12810140,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_359_"
+  },
+  {
+   "offset": 12810224,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_360_"
+  },
+  {
+   "offset": 12810288,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_361_"
+  },
+  {
+   "offset": 12810372,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_362_"
+  },
+  {
+   "offset": 12810456,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_379_"
+  },
+  {
+   "offset": 12810520,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_380_"
+  },
+  {
+   "offset": 12810568,
+   "text": "~1 KROMER "
+  },
+  {
+   "offset": 12810584,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_445_"
+  },
+  {
+   "offset": 12810648,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_449_"
+  },
+  {
+   "offset": 12810712,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_452_"
+  },
+  {
+   "offset": 12810776,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_455_"
+  },
+  {
+   "offset": 12810836,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_459_"
+  },
+  {
+   "offset": 12810896,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_462_"
+  },
+  {
+   "offset": 12810956,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_464_"
+  },
+  {
+   "offset": 12811032,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_469_"
+  },
+  {
+   "offset": 12811108,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_506_"
+  },
+  {
+   "offset": 12811156,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_507_"
+  },
+  {
+   "offset": 12811204,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_511_"
+  },
+  {
+   "offset": 12811252,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_512_"
+  },
+  {
+   "offset": 12811300,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_513_"
+  },
+  {
+   "offset": 12811348,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_598_"
+  },
+  {
+   "offset": 12811396,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_599_"
+  },
+  {
+   "offset": 12811444,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_600_"
+  },
+  {
+   "offset": 12811492,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_601_"
+  },
+  {
+   "offset": 12811540,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_602_"
+  },
+  {
+   "offset": 12811588,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_603_"
+  },
+  {
+   "offset": 12811636,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_604_"
+  },
+  {
+   "offset": 12811684,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_619_"
+  },
+  {
+   "offset": 12811732,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_647_"
+  },
+  {
+   "offset": 12811780,
+   "text": "\\E2* DON'T FORGET TO&[Like and Subscribe]&FOR MORE&[Hyperlink Blocked]!/"
+  },
+  {
+   "offset": 12811860,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_648_"
+  },
+  {
+   "offset": 12811952,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_649_"
+  },
+  {
+   "offset": 12812056,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_650_"
+  },
+  {
+   "offset": 12812128,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_689_"
+  },
+  {
+   "offset": 12812228,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_662_"
+  },
+  {
+   "offset": 12812276,
+   "text": "\\E0* KRIS!!^1! YOU [Little Sponge]^1! I KNEW YOU'D COME HERE [[On A Saturday Night]]!"
+  },
+  {
+   "offset": 12812368,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_663_"
+  },
+  {
+   "offset": 12812416,
+   "text": "\\E3* AFTER ALL^1, YOU WANNA BE A [Big Shot]! EAHAHAHAHAA!!"
+  },
+  {
+   "offset": 12812480,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_664_"
+  },
+  {
+   "offset": 12812564,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_665_"
+  },
+  {
+   "offset": 12812672,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_666_"
+  },
+  {
+   "offset": 12812720,
+   "text": "\\E3* [[A Great Deal]] IS WAITING For [[A LimiTed Time Only!]]&* A HEAVEN-PIERCING [[Workout-Ready Body]]"
+  },
+  {
+   "offset": 12812832,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_667_"
+  },
+  {
+   "offset": 12812880,
+   "text": "\\E4* [[Designed BY The Classics You've Come To Expect^1! (C)1997]]"
+  },
+  {
+   "offset": 12812952,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_668_"
+  },
+  {
+   "offset": 12813096,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_669_"
+  },
+  {
+   "offset": 12813240,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_670_"
+  },
+  {
+   "offset": 12813288,
+   "text": "\\E3* VACATIONING IN [Burning acid] WHILE YOU SOAK IN THE [Hyperlink Blocked]."
+  },
+  {
+   "offset": 12813372,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_671_"
+  },
+  {
+   "offset": 12813512,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_672_"
+  },
+  {
+   "offset": 12813600,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_673_"
+  },
+  {
+   "offset": 12813732,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_674_"
+  },
+  {
+   "offset": 12813880,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_675_"
+  },
+  {
+   "offset": 12814008,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_676_"
+  },
+  {
+   "offset": 12814056,
+   "text": "\\E5* TAKE THIS DEAL AND YOU WILL [[Die]]!!&* IT'S THAT GOOD!!!"
+  },
+  {
+   "offset": 12814124,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_677_"
+  },
+  {
+   "offset": 12814260,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_681_"
+  },
+  {
+   "offset": 12814408,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_682_"
+  },
+  {
+   "offset": 12814552,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_699_"
+  },
+  {
+   "offset": 12814600,
+   "text": "\\E4* KRIS!!^1! YOU DID IT!^1! YOU [[Funky]] LITTLE [[Worm]]^1! YOU BROUGHT ME THE DISK!!"
+  },
+  {
+   "offset": 12814696,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_700_"
+  },
+  {
+   "offset": 12814812,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_701_"
+  },
+  {
+   "offset": 12814924,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_702_"
+  },
+  {
+   "offset": 12815004,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_703_"
+  },
+  {
+   "offset": 12815052,
+   "text": "\\E7* MY [[Hyperlink Blocked]]."
+  },
+  {
+   "offset": 12815088,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_704_"
+  },
+  {
+   "offset": 12815196,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_705_"
+  },
+  {
+   "offset": 12815304,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_706_"
+  },
+  {
+   "offset": 12815352,
+   "text": "\\E3* DO THAT...&* AND YOU HAVE MY [Specil Guaranttee] I WILL [[Pass My Savings Onto You!]]"
+  },
+  {
+   "offset": 12815448,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_707_"
+  },
+  {
+   "offset": 12815496,
+   "text": "\\E4* EVERY [Big], EVERY [Shot], EVERY [Hyperlink Blocked], ALL YOURS, KRIS."
+  },
+  {
+   "offset": 12815580,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_708_"
+  },
+  {
+   "offset": 12815628,
+   "text": "* SO WHAT DO YOU SAY? BIG SHOT..."
+  },
+  {
+   "offset": 12815668,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_709_"
+  },
+  {
+   "offset": 12815716,
+   "text": "\\E0* [[Warning^1! If you consent to the terms and agreements^1,]]&* [[OUR STORE is PERMANENTLY Closing Down!!]]/"
+  },
+  {
+   "offset": 12815856,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_719_"
+  },
+  {
+   "offset": 12815904,
+   "text": "\\E2* I USED TO BE NOTHING BUT THE E_MAIL GUY^1, NOW I'M THE [[It Burns^1! Ow^1! Stop^1! Help Me^1! It Burns!]] GUY!"
+  },
+  {
+   "offset": 12816028,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_720_"
+  },
+  {
+   "offset": 12816076,
+   "text": "\\E6* [[Amazed at thi5 amazing transformation? You too can]] HAVE A [[Communion]] WITH [[Unintelligble Laughter]]"
+  },
+  {
+   "offset": 12816196,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_721_"
+  },
+  {
+   "offset": 12816244,
+   "text": "\\E3* SOON I'LL EVEN SURPASS THAT DAMNED [[Clown Around Town!]]"
+  },
+  {
+   "offset": 12816312,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_722_"
+  },
+  {
+   "offset": 12816360,
+   "text": "\\E4* BUT UNLIKE HIM I'M GONNA [[Shoot For the Sky!]] AND  GET ON THE PATH TO ..."
+  },
+  {
+   "offset": 12816448,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_723_"
+  },
+  {
+   "offset": 12816496,
+   "text": "\\E7* [[The Big One]]"
+  },
+  {
+   "offset": 12816524,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_724_"
+  },
+  {
+   "offset": 12816672,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_725_"
+  },
+  {
+   "offset": 12816720,
+   "text": "\\E6* [[Hyperlink blocked.]]/"
+  },
+  {
+   "offset": 12816756,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_734_"
+  },
+  {
+   "offset": 12816804,
+   "text": "\\E7* SPEAKING OF [[Communion]]"
+  },
+  {
+   "offset": 12816840,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_735_"
+  },
+  {
+   "offset": 12816940,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_737_"
+  },
+  {
+   "offset": 12817052,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_738_"
+  },
+  {
+   "offset": 12817188,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_742_"
+  },
+  {
+   "offset": 12817268,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_743_"
+  },
+  {
+   "offset": 12817408,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_744_"
+  },
+  {
+   "offset": 12817456,
+   "text": "\\E3* WE DON'T NEED ANYONE ELSE!!^1! WE DON'T NEED [[Easels]] or [[CRTs]]!"
+  },
+  {
+   "offset": 12817536,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_745_"
+  },
+  {
+   "offset": 12817584,
+   "text": "\\E4* WE DON'T NEED ANY [[Man^1, Woman^1, or Child]] [[At Half Price]]!!"
+  },
+  {
+   "offset": 12817664,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_746_"
+  },
+  {
+   "offset": 12817712,
+   "text": "\\E5* WE DON'T NEED [[MIKE]]!!!"
+  },
+  {
+   "offset": 12817748,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_747_"
+  },
+  {
+   "offset": 12817828,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_748_"
+  },
+  {
+   "offset": 12817876,
+   "text": "\\E7* KRIS!!^1! DON'T BELIEVE [[Anything You See On TV!]]&* THE MAN'S A CRIMINAL^1, I TELL YOU!^1! A CRIMINAL!!/"
+  },
+  {
+   "offset": 12817996,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_758_"
+  },
+  {
+   "offset": 12818044,
+   "text": "\\E2* WHAT ARE YOU AFRAID OF??? ACCORDING TO [[Encyclopedia of]] [[Being Afraid]]"
+  },
+  {
+   "offset": 12818132,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_759_"
+  },
+  {
+   "offset": 12818224,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_761_"
+  },
+  {
+   "offset": 12818272,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_762_"
+  },
+  {
+   "offset": 12818364,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_763_"
+  },
+  {
+   "offset": 12818480,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_764_"
+  },
+  {
+   "offset": 12818592,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_768_"
+  },
+  {
+   "offset": 12818656,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_800_"
+  },
+  {
+   "offset": 12818720,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_801_"
+  },
+  {
+   "offset": 12818780,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_813_"
+  },
+  {
+   "offset": 12818828,
+   "text": "\\E3* FINALLY!!^1! I KNEW YOU WOULD [[Request Accepted]]"
+  },
+  {
+   "offset": 12818892,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_814_"
+  },
+  {
+   "offset": 12818940,
+   "text": "\\E5* KRIS!!^1! HERE I GO!!^1! BEGIN THE [[Transfer]]/"
+  },
+  {
+   "offset": 12819000,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_820_"
+  },
+  {
+   "offset": 12819048,
+   "text": "\\E7* TURNING DOWN A BELOVED [[Stranger]]..^1. THAT'S NOT VERY [[Big Shot]] OF YOU^1, KRIS./"
+  },
+  {
+   "offset": 12819148,
+   "text": "obj_shop_ch2_spamton_slash_Draw_0_gml_872_"
+  },
+  {
+   "offset": 12989232,
+   "text": "\\EI* Noelle!^1! Heavens to yikes!^1! They're..^1. they're.../"
+  },
+  {
+   "offset": 13008432,
+   "text": "shop_spamton_bg_time"
+  },
+  {
+   "offset": 13008968,
+   "text": "* [[BIGGER AND BETTER THAN EVER]]/"
+  },
+  {
+   "offset": 13010328,
+   "text": "* [[SOUL]]^3 &* Y O U HAVE/"
+  },
+  {
+   "offset": 13011184,
+   "text": "* Kris!?!^1? WAS THAT A [BIG SHOT] JUST NOW!?"
+  },
+  {
+   "offset": 13011392,
+   "text": "* [Heaven]^1, are you WATCHING?"
+  },
+  {
+   "offset": 13032064,
+   "text": "* EV3RY  BUDDY  'S FAVORITE [[Number 1 Rated Salesman1997]]/"
+  },
+  {
+   "offset": 13032240,
+   "text": "* SPAMTON G. SPAMTON!!/"
+  },
+  {
+   "offset": 13032272,
+   "text": "spamton_laugh_noise.og"
+  },
+  {
+   "offset": 13032380,
+   "text": "spamton_meeting.og"
+  },
+  {
+   "offset": 13032532,
+   "text": "* LOOKS LIKE YOU'RE [[All Alone On A Late Night?]]/"
+  },
+  {
+   "offset": 13032636,
+   "text": "* ALL YOUR FRIENDS^1, [[Abandoned you for the slime]] YOU ARE?/"
+  },
+  {
+   "offset": 13032752,
+   "text": "* SALES^1, GONE DOWN THE [[Drain]] [[Drain]]??/"
+  },
+  {
+   "offset": 13032940,
+   "text": "* WELL HAVE I GOT A [[Specil Deal]] FOR LONELY [[Hearts]] LIKE YOU!!/"
+  },
+  {
+   "offset": 13033060,
+   "text": "* IF YOU'VE [[Lost Control Of Your Life]]/"
+  },
+  {
+   "offset": 13033152,
+   "text": "* THEN YOU JUST GOTTA GRAB IT BY THE [[Silly Strings]]/"
+  },
+  {
+   "offset": 13033260,
+   "text": "* WHY BE THE [[Little Sponge]] WHO HATES ITS [[$4.99]] LIFE/"
+  },
+  {
+   "offset": 13033444,
+   "text": "* [[BIG SHOT!!!]]/"
+  },
+  {
+   "offset": 13033512,
+   "text": "* [[BIG SHOT!!!!]]/"
+  },
+  {
+   "offset": 13033584,
+   "text": "* [[BIG SHOT!!!!!]]/"
+  },
+  {
+   "offset": 13033656,
+   "text": "* THAT'S RIGHT!^1! NOW'S YOUR CHANCE TO BE A [[BIG SHOT]]!!/"
+  },
+  {
+   "offset": 13034028,
+   "text": "* [[Hyperlink Blocked]]./"
+  },
+  {
+   "offset": 13034104,
+   "text": "* YOU WANT IT.&* YOU WANT [[Hyperlink Blocked]]^1, DON'T YOU./"
+  },
+  {
+   "offset": 13034388,
+   "text": "* YOUR [[HeartShapedObject]]./"
+  },
+  {
+   "offset": 13034552,
+   "text": "* YOU'VE GOT THE [[LIGHT.]^1]&* WHY DON'T YO^1U&* [[Show it off?]]/"
+  },
+  {
+   "offset": 13034700,
+   "text": "spamton_marke"
+  },
+  {
+   "offset": 13034720,
+   "text": "spamton_battle.og"
+  },
+  {
+   "offset": 13034868,
+   "text": "* I'LL BE WAITING AT MY [[Home-made Storefront Site]]"
+  },
+  {
+   "offset": 13034972,
+   "text": "* IN THE [[Trash Area Closed For Repairs.]]/"
+  },
+  {
+   "offset": 13035216,
+   "text": "* TO [[Like and Subscribe]] FOR MORE [[Hyperlink Blocked.]]/"
+  },
+  {
+   "offset": 13036536,
+   "text": "spamton_meeting_intro.og"
+  },
+  {
+   "offset": 13092788,
+   "text": "obj_ch2_room_spamton_shop_exterior_slash_Step_0_gml_32_"
+  },
+  {
+   "offset": 13092864,
+   "text": "obj_ch2_room_spamton_shop_exterior_slash_Step_0_gml_35_"
+  },
+  {
+   "offset": 13092992,
+   "text": "obj_ch2_room_spamton_shop_exterior_slash_Step_0_gml_36_"
+  },
+  {
+   "offset": 13093108,
+   "text": "obj_ch2_room_spamton_shop_exterior_slash_Step_0_gml_38_"
+  },
+  {
+   "offset": 13093244,
+   "text": "obj_ch2_room_spamton_shop_exterior_slash_Step_0_gml_40_"
+  },
+  {
+   "offset": 13113840,
+   "text": "And banish the ANGEL'S HEAVEN"
+  },
+  {
+   "offset": 13124232,
+   "text": "heavencha"
+  },
+  {
+   "offset": 13156156,
+   "text": "spamtondoo"
+  },
+  {
+   "offset": 13165500,
+   "text": "snd_spamton_laug"
+  },
+  {
+   "offset": 13171400,
+   "text": "spr_cutscene_14_spamton_dar"
+  },
+  {
+   "offset": 13171436,
+   "text": "spr_cutscene_14_spamton_laugh_glitc"
+  },
+  {
+   "offset": 13171480,
+   "text": "spr_cutscene_14_spamton_laugh_lef"
+  },
+  {
+   "offset": 13171520,
+   "text": "spr_cutscene_14_spamton_laugh_larg"
+  },
+  {
+   "offset": 13171560,
+   "text": "spr_cutscene_14_spamton_laugh_righ"
+  },
+  {
+   "offset": 13171628,
+   "text": "spr_cutscene_14_spamton_gra"
+  },
+  {
+   "offset": 13171664,
+   "text": "spr_cutscene_14_spamton_grab_dar"
+  },
+  {
+   "offset": 13171704,
+   "text": "spr_cutscene_14_spamton_up_look_dow"
+  },
+  {
+   "offset": 13171748,
+   "text": "spr_cutscene_14_spamton_up_punc"
+  },
+  {
+   "offset": 13171788,
+   "text": "spr_cutscene_14_spamton_arms_u"
+  },
+  {
+   "offset": 13171824,
+   "text": "spr_cutscene_14_spamton_arms_up_laug"
+  },
+  {
+   "offset": 13171868,
+   "text": "spr_cutscene_14_spamton_hands_look_dow"
+  },
+  {
+   "offset": 13171944,
+   "text": "spr_cutscene_14_spamton_hands_look_down_dar"
+  },
+  {
+   "offset": 13171996,
+   "text": "spr_cutscene_14_spamton_hand"
+  },
+  {
+   "offset": 13202340,
+   "text": "spr_npc_most_improved_1997_ch"
+  },
+  {
+   "offset": 13219220,
+   "text": "spr_spamton_dar"
+  },
+  {
+   "offset": 13219244,
+   "text": "spr_spamton_idl"
+  },
+  {
+   "offset": 13219268,
+   "text": "spr_spamton_hur"
+  },
+  {
+   "offset": 13219292,
+   "text": "spr_spamton_spare"
+  },
+  {
+   "offset": 13219316,
+   "text": "spr_spamton_jum"
+  },
+  {
+   "offset": 13219340,
+   "text": "spr_spamton_jump_ai"
+  },
+  {
+   "offset": 13219368,
+   "text": "spr_spamton_jump_lan"
+  },
+  {
+   "offset": 13219396,
+   "text": "spr_spamton_laugh_to"
+  },
+  {
+   "offset": 13219440,
+   "text": "spr_spamton_laugh_middl"
+  },
+  {
+   "offset": 13219472,
+   "text": "spr_spamton_laugh_botto"
+  },
+  {
+   "offset": 13219504,
+   "text": "spr_spamton_laugh_lef"
+  },
+  {
+   "offset": 13219532,
+   "text": "spr_spamton_laugh_righ"
+  },
+  {
+   "offset": 13219560,
+   "text": "spr_spamton_laugh_glitc"
+  },
+  {
+   "offset": 13219592,
+   "text": "spr_spamton_head_gro"
+  },
+  {
+   "offset": 13219620,
+   "text": "spr_spamton_dolla"
+  },
+  {
+   "offset": 13219644,
+   "text": "spr_spamton_jumpe"
+  },
+  {
+   "offset": 13219668,
+   "text": "spr_spamton_cheru"
+  },
+  {
+   "offset": 13219692,
+   "text": "spr_spamton_defeat_vine"
+  },
+  {
+   "offset": 13225604,
+   "text": "spr_shop_spamton_bg_battl"
+  },
+  {
+   "offset": 13236968,
+   "text": "spr_shop_spamton_b"
+  },
+  {
+   "offset": 13236992,
+   "text": "spr_shop_spamton"
+  },
+  {
+   "offset": 13237016,
+   "text": "spr_shop_spamton"
+  },
+  {
+   "offset": 13237040,
+   "text": "spr_shop_spamton"
+  },
+  {
+   "offset": 13237064,
+   "text": "spr_shop_spamton"
+  },
+  {
+   "offset": 13237088,
+   "text": "spr_shop_spamton"
+  },
+  {
+   "offset": 13251164,
+   "text": "spr_spamton_shop_bas"
+  },
+  {
+   "offset": 13251192,
+   "text": "spr_spamton_shop_base_ol"
+  },
+  {
+   "offset": 13251224,
+   "text": "spr_spamton_shop_doo"
+  },
+  {
+   "offset": 13251252,
+   "text": "spr_spamton_trash_"
+  },
+  {
+   "offset": 13251276,
+   "text": "spr_spamton_trash_"
+  },
+  {
+   "offset": 13251300,
+   "text": "spr_spamton_trash_pil"
+  },
+  {
+   "offset": 13251356,
+   "text": "spr_spamton_trash_pile_large_ol"
+  },
+  {
+   "offset": 13251428,
+   "text": "spr_spamton_trash_pile_larg"
+  },
+  {
+   "offset": 13251464,
+   "text": "spr_spamton_trash_pile_large"
+  },
+  {
+   "offset": 13251500,
+   "text": "spr_spamton_trash_stop_sig"
+  },
+  {
+   "offset": 13251532,
+   "text": "spr_spamton_broken_coaste"
+  },
+  {
+   "offset": 13258240,
+   "text": "spr_spamtonneo_faceAttack_nos"
+  },
+  {
+   "offset": 13258276,
+   "text": "spr_spamtonneo_faceAttack_nose_bulle"
+  },
+  {
+   "offset": 13258320,
+   "text": "spr_spamtonneo_faceAttack_fac"
+  },
+  {
+   "offset": 13258356,
+   "text": "spr_spamtonneo_faceAttack_mout"
+  },
+  {
+   "offset": 13258392,
+   "text": "spr_spamtonneo_faceAttack_eye"
+  },
+  {
+   "offset": 13258428,
+   "text": "spr_spamtonneo_faceAttack_wis"
+  },
+  {
+   "offset": 13258860,
+   "text": "spr_spamtonneo_faceAttack_nose_bullet_mas"
+  },
+  {
+   "offset": 13259708,
+   "text": "spr_spamtonpaintin"
+  },
+  {
+   "offset": 13260528,
+   "text": "spr_spamtonhea"
+  },
+  {
+   "offset": 13263692,
+   "text": "bg_dw_mansion_spamton_basement_tilese"
+  },
+  {
+   "offset": 13309660,
+   "text": "obj_spamtonpaintin"
+  },
+  {
+   "offset": 13320748,
+   "text": "obj_spamton_enem"
+  },
+  {
+   "offset": 13320772,
+   "text": "obj_spamton_attack_mod"
+  },
+  {
+   "offset": 13320800,
+   "text": "obj_spamton_jumpe"
+  },
+  {
+   "offset": 13320824,
+   "text": "obj_spamton_wordbulle"
+  },
+  {
+   "offset": 13320852,
+   "text": "obj_spamton_dolla"
+  },
+  {
+   "offset": 13320876,
+   "text": "obj_spamton_warped_bo"
+  },
+  {
+   "offset": 13320932,
+   "text": "obj_spamton_cheru"
+  },
+  {
+   "offset": 13321004,
+   "text": "obj_spamtonsho"
+  },
+  {
+   "offset": 13322680,
+   "text": "obj_spamton_wall_controlle"
+  },
+  {
+   "offset": 13323940,
+   "text": "obj_spamton_neo_enem"
+  },
+  {
+   "offset": 13332148,
+   "text": "obj_ch2_room_spamton_shop_exterio"
+  },
+  {
+   "offset": 13332688,
+   "text": "obj_ch2_room_city_spamton_hous"
+  },
+  {
+   "offset": 13348252,
+   "text": "room_dw_city_spamton_shop_exterio"
+  },
+  {
+   "offset": 13348504,
+   "text": "room_dw_city_spamton_hous"
+  },
+  {
+   "offset": 13353456,
+   "text": "room_dw_city_spamton_alle"
+  },
+  {
+   "offset": 13356824,
+   "text": "room_dw_city_spamton_shop_interio"
+  },
+  {
+   "offset": 13398340,
+   "text": "gml_GlobalScript_scr_spamton_hea"
+  },
+  {
+   "offset": 13413608,
+   "text": "gml_RoomCC_room_dw_city_spamton_house_0_Creat"
+  },
+  {
+   "offset": 13425232,
+   "text": "gml_RoomCC_room_dw_city_spamton_alley_0_PreCreat"
+  },
+  {
+   "offset": 13462144,
+   "text": "gml_Object_obj_spamtonpainting_Create_"
+  },
+  {
+   "offset": 13537632,
+   "text": "gml_Object_obj_spamton_enemy_Create_"
+  },
+  {
+   "offset": 13537676,
+   "text": "gml_Object_obj_spamton_enemy_Alarm_"
+  },
+  {
+   "offset": 13537720,
+   "text": "gml_Object_obj_spamton_enemy_Step_"
+  },
+  {
+   "offset": 13537760,
+   "text": "gml_Object_obj_spamton_enemy_Other_2"
+  },
+  {
+   "offset": 13537804,
+   "text": "gml_Object_obj_spamton_enemy_Draw_"
+  },
+  {
+   "offset": 13537844,
+   "text": "gml_Object_obj_spamton_attack_mode_Create_"
+  },
+  {
+   "offset": 13537892,
+   "text": "gml_Object_obj_spamton_attack_mode_Destroy_"
+  },
+  {
+   "offset": 13537944,
+   "text": "gml_Object_obj_spamton_attack_mode_Step_"
+  },
+  {
+   "offset": 13537992,
+   "text": "gml_Object_obj_spamton_attack_mode_Other_"
+  },
+  {
+   "offset": 13538040,
+   "text": "gml_Object_obj_spamton_attack_mode_Draw_"
+  },
+  {
+   "offset": 13538088,
+   "text": "gml_Object_obj_spamton_jumper_Create_"
+  },
+  {
+   "offset": 13538132,
+   "text": "gml_Object_obj_spamton_jumper_Step_"
+  },
+  {
+   "offset": 13538176,
+   "text": "gml_Object_obj_spamton_jumper_Draw_"
+  },
+  {
+   "offset": 13538220,
+   "text": "gml_Object_obj_spamton_wordbullet_Create_"
+  },
+  {
+   "offset": 13538268,
+   "text": "gml_Object_obj_spamton_wordbullet_Step_"
+  },
+  {
+   "offset": 13538316,
+   "text": "gml_Object_obj_spamton_wordbullet_Draw_"
+  },
+  {
+   "offset": 13538364,
+   "text": "gml_Object_obj_spamton_dollar_Create_"
+  },
+  {
+   "offset": 13538408,
+   "text": "gml_Object_obj_spamton_dollar_Step_"
+  },
+  {
+   "offset": 13538452,
+   "text": "gml_Object_obj_spamton_dollar_Draw_"
+  },
+  {
+   "offset": 13538496,
+   "text": "gml_Object_obj_spamton_warped_box_Create_"
+  },
+  {
+   "offset": 13538544,
+   "text": "gml_Object_obj_spamton_warped_box_Destroy_"
+  },
+  {
+   "offset": 13538592,
+   "text": "gml_Object_obj_spamton_warped_box_Step_"
+  },
+  {
+   "offset": 13538640,
+   "text": "gml_Object_obj_spamton_warped_box_Other_"
+  },
+  {
+   "offset": 13538688,
+   "text": "gml_Object_obj_spamton_warped_box_Draw_"
+  },
+  {
+   "offset": 13538880,
+   "text": "gml_Object_obj_spamton_cherub_Create_"
+  },
+  {
+   "offset": 13538924,
+   "text": "gml_Object_obj_spamton_cherub_Draw_"
+  },
+  {
+   "offset": 13539324,
+   "text": "gml_Object_obj_spamtonshot_Create_"
+  },
+  {
+   "offset": 13539364,
+   "text": "gml_Object_obj_spamtonshot_Step_"
+  },
+  {
+   "offset": 13546888,
+   "text": "gml_Object_obj_sneo_tiny_susie_axe_Collision_obj_spamtonsho"
+  },
+  {
+   "offset": 13549320,
+   "text": "gml_Object_obj_sneo_tiny_ralsei_Collision_obj_spamtonsho"
+  },
+  {
+   "offset": 13558072,
+   "text": "gml_Object_obj_fluffyguard_Collision_obj_spamtonsho"
+  },
+  {
+   "offset": 13560508,
+   "text": "gml_Object_obj_spamton_neo_enemy_Create_"
+  },
+  {
+   "offset": 13560556,
+   "text": "gml_Object_obj_spamton_neo_enemy_Alarm_"
+  },
+  {
+   "offset": 13560604,
+   "text": "gml_Object_obj_spamton_neo_enemy_Alarm_"
+  },
+  {
+   "offset": 13560652,
+   "text": "gml_Object_obj_spamton_neo_enemy_Step_"
+  },
+  {
+   "offset": 13560696,
+   "text": "gml_Object_obj_spamton_neo_enemy_Step_"
+  },
+  {
+   "offset": 13560740,
+   "text": "gml_Object_obj_spamton_neo_enemy_Mouse_6"
+  },
+  {
+   "offset": 13560788,
+   "text": "gml_Object_obj_spamton_neo_enemy_Mouse_6"
+  },
+  {
+   "offset": 13560836,
+   "text": "gml_Object_obj_spamton_neo_enemy_Other_2"
+  },
+  {
+   "offset": 13560884,
+   "text": "gml_Object_obj_spamton_neo_enemy_Other_1"
+  },
+  {
+   "offset": 13560932,
+   "text": "gml_Object_obj_spamton_neo_enemy_Other_2"
+  },
+  {
+   "offset": 13560980,
+   "text": "gml_Object_obj_spamton_neo_enemy_Other_1"
+  },
+  {
+   "offset": 13561028,
+   "text": "gml_Object_obj_spamton_neo_enemy_Other_1"
+  },
+  {
+   "offset": 13561076,
+   "text": "gml_Object_obj_spamton_neo_enemy_Other_1"
+  },
+  {
+   "offset": 13561124,
+   "text": "gml_Object_obj_spamton_neo_enemy_Other_1"
+  },
+  {
+   "offset": 13561172,
+   "text": "gml_Object_obj_spamton_neo_enemy_Draw_"
+  },
+  {
+   "offset": 13561216,
+   "text": "gml_Object_obj_spamton_neo_enemy_KeyPress_8"
+  },
+  {
+   "offset": 13561268,
+   "text": "gml_Object_obj_spamton_neo_enemy_CleanUp_"
+  },
+  {
+   "offset": 13586620,
+   "text": "gml_Object_obj_shop_ch2_spamton_Create_"
+  },
+  {
+   "offset": 13586668,
+   "text": "gml_Object_obj_shop_ch2_spamton_Alarm_"
+  },
+  {
+   "offset": 13586712,
+   "text": "gml_Object_obj_shop_ch2_spamton_Alarm_"
+  },
+  {
+   "offset": 13586756,
+   "text": "gml_Object_obj_shop_ch2_spamton_Other_1"
+  },
+  {
+   "offset": 13586804,
+   "text": "gml_Object_obj_shop_ch2_spamton_Draw_"
+  },
+  {
+   "offset": 13608500,
+   "text": "gml_Object_obj_ch2_room_spamton_shop_exterior_Create_"
+  },
+  {
+   "offset": 13608560,
+   "text": "gml_Object_obj_ch2_room_spamton_shop_exterior_Alarm_"
+  },
+  {
+   "offset": 13608620,
+   "text": "gml_Object_obj_ch2_room_spamton_shop_exterior_Step_"
+  },
+  {
+   "offset": 13610164,
+   "text": "gml_Object_obj_ch2_room_city_spamton_house_Create_"
+  }
+ ],
+ "ch3": [
+  {
+   "offset": 14450140,
+   "text": "ITEM#Classy#meal for#big shots#HP+14"
+  },
+  {
+   "offset": 14685572,
+   "text": "obj_ch2_room_spamton_shop_exterio"
+  },
+  {
+   "offset": 14726964,
+   "text": "* THEN [[Why]] GO TO A DUMPSTER!!!/"
+  },
+  {
+   "offset": 14727208,
+   "text": "* THat'll be 1997 KROMER."
+  },
+  {
+   "offset": 14822600,
+   "text": "Spamton NE"
+  },
+  {
+   "offset": 14826996,
+   "text": "scr_monstersetup_slash_scr_monstersetup_gml_1997_"
+  },
+  {
+   "offset": 14841100,
+   "text": "Heavenly light restores a little HP to#one party member. Depends on Magic"
+  },
+  {
+   "offset": 14855612,
+   "text": "A pass for big shots allowed backstage.#Show it to Ramb in front of the door"
+  },
+  {
+   "offset": 14976680,
+   "text": "gml_Script_scr_spamton_hea"
+  },
+  {
+   "offset": 14976712,
+   "text": "scr_spamton_hea"
+  },
+  {
+   "offset": 15018548,
+   "text": "\\M2* Freedom's just a thing for big shots./"
+  },
+  {
+   "offset": 15200160,
+   "text": "* Ah^1, Kris. Look at you^1, a dressing room big shot^1! Cheers^1, cheers./"
+  },
+  {
+   "offset": 15298256,
+   "text": "spamton_flas"
+  },
+  {
+   "offset": 15298308,
+   "text": "spamton_absor"
+  },
+  {
+   "offset": 15298328,
+   "text": "spamton_absorb_time"
+  },
+  {
+   "offset": 15298356,
+   "text": "spamton_absorb_sto"
+  },
+  {
+   "offset": 15440128,
+   "text": "HIS SECRET TO BEING A BIG SHOT.../"
+  },
+  {
+   "offset": 15440924,
+   "text": "THINKING IT WAS FINALLY MY CHANCE TO BE A BIG SHOT."
+  },
+  {
+   "offset": 15447100,
+   "text": "spamton_hi"
+  },
+  {
+   "offset": 15450520,
+   "text": "* He's charging a big shot!!! Hit him to reset the charge!!"
+  },
+  {
+   "offset": 15563988,
+   "text": "* Hope when he becomes a big shot^1, he remembers us little guys down the street."
+  },
+  {
+   "offset": 15591716,
+   "text": "obj_npc_room_slash_Other_10_gml_1997_"
+  },
+  {
+   "offset": 15935456,
+   "text": "And banish the ANGEL'S HEAVEN"
+  },
+  {
+   "offset": 15945428,
+   "text": "heavencha"
+  },
+  {
+   "offset": 15978084,
+   "text": "snd_spamton_laug"
+  },
+  {
+   "offset": 16007900,
+   "text": "spr_npc_most_improved_1997_ch"
+  },
+  {
+   "offset": 16013656,
+   "text": "spr_spamton_foa"
+  },
+  {
+   "offset": 16038676,
+   "text": "spr_spamton_dar"
+  },
+  {
+   "offset": 16038700,
+   "text": "spr_spamton_idl"
+  },
+  {
+   "offset": 16038772,
+   "text": "spr_spamton_hur"
+  },
+  {
+   "offset": 16038796,
+   "text": "spr_spamton_spare"
+  },
+  {
+   "offset": 16038820,
+   "text": "spr_spamton_jum"
+  },
+  {
+   "offset": 16038876,
+   "text": "spr_spamton_jump_ai"
+  },
+  {
+   "offset": 16038928,
+   "text": "spr_spamton_jump_lan"
+  },
+  {
+   "offset": 16038956,
+   "text": "spr_spamton_laugh_to"
+  },
+  {
+   "offset": 16039100,
+   "text": "spr_spamton_laugh_middl"
+  },
+  {
+   "offset": 16039176,
+   "text": "spr_spamton_laugh_botto"
+  },
+  {
+   "offset": 16039208,
+   "text": "spr_spamton_laugh_lef"
+  },
+  {
+   "offset": 16039348,
+   "text": "spr_spamton_laugh_righ"
+  },
+  {
+   "offset": 16039376,
+   "text": "spr_spamton_laugh_glitc"
+  },
+  {
+   "offset": 16039408,
+   "text": "spr_spamton_head_gro"
+  },
+  {
+   "offset": 16039436,
+   "text": "spr_spamton_dolla"
+  },
+  {
+   "offset": 16039460,
+   "text": "spr_spamton_jumpe"
+  },
+  {
+   "offset": 16039484,
+   "text": "spr_spamton_cheru"
+  },
+  {
+   "offset": 16039580,
+   "text": "spr_spamton_defeat_vine"
+  },
+  {
+   "offset": 16050000,
+   "text": "spr_shop_spamton_bg_battl"
+  },
+  {
+   "offset": 16069592,
+   "text": "spr_shop_spamton_b"
+  },
+  {
+   "offset": 16069660,
+   "text": "spr_shop_spamton"
+  },
+  {
+   "offset": 16069684,
+   "text": "spr_shop_spamton"
+  },
+  {
+   "offset": 16069784,
+   "text": "spr_shop_spamton"
+  },
+  {
+   "offset": 16069808,
+   "text": "spr_shop_spamton"
+  },
+  {
+   "offset": 16069832,
+   "text": "spr_shop_spamton"
+  },
+  {
+   "offset": 16081596,
+   "text": "spr_spamtonneo_faceAttack_nos"
+  },
+  {
+   "offset": 16081732,
+   "text": "spr_spamtonneo_faceAttack_nose_bulle"
+  },
+  {
+   "offset": 16081776,
+   "text": "spr_spamtonneo_faceAttack_fac"
+  },
+  {
+   "offset": 16081840,
+   "text": "spr_spamtonneo_faceAttack_mout"
+  },
+  {
+   "offset": 16081876,
+   "text": "spr_spamtonneo_faceAttack_eye"
+  },
+  {
+   "offset": 16082000,
+   "text": "spr_spamtonneo_faceAttack_wis"
+  },
+  {
+   "offset": 16090484,
+   "text": "spr_spamtonneo_faceAttack_nose_bullet_mas"
+  },
+  {
+   "offset": 16103500,
+   "text": "spr_spamton_jump_air_cente"
+  },
+  {
+   "offset": 16112736,
+   "text": "spr_spamtonhea"
+  },
+  {
+   "offset": 16412044,
+   "text": "gml_GlobalScript_scr_spamton_hea"
+  }
+ ],
+ "ch4": [
+  {
+   "offset": 25967640,
+   "text": "heavenandhell"
+  },
+  {
+   "offset": 25967660,
+   "text": "heavenandhell"
+  },
+  {
+   "offset": 25969488,
+   "text": "THEY'LL HEAR THE RING OF HEAVEN'S CALL"
+  },
+  {
+   "offset": 26001324,
+   "text": "heavencha"
+  },
+  {
+   "offset": 26185828,
+   "text": "obj_ch2_room_spamton_shop_exterio"
+  },
+  {
+   "offset": 26227076,
+   "text": "* THEN [[Why]] GO TO A DUMPSTER!!!/"
+  },
+  {
+   "offset": 26227320,
+   "text": "* THat'll be 1997 KROMER."
+  },
+  {
+   "offset": 26257680,
+   "text": "\\E5* Oh^1, heavens to yikes^1! Where's my Dragon Blazers barf bag!?"
+  },
+  {
+   "offset": 26354844,
+   "text": "Spamton NE"
+  },
+  {
+   "offset": 26357972,
+   "text": "scr_monstersetup_slash_scr_monstersetup_gml_1997_"
+  },
+  {
+   "offset": 26376560,
+   "text": "Heavenly light restores a little HP to#one party member. Depends on Magic"
+  },
+  {
+   "offset": 26392784,
+   "text": "A pass for big shots allowed backstage.#Show it to Ramb in front of the door"
+  },
+  {
+   "offset": 26524228,
+   "text": "gml_Script_scr_spamton_hea"
+  },
+  {
+   "offset": 26524260,
+   "text": "scr_spamton_hea"
+  },
+  {
+   "offset": 26758072,
+   "text": "spamton_dance.og"
+  },
+  {
+   "offset": 26835492,
+   "text": "* The heavens were certainly moved to tears by your generosity."
+  },
+  {
+   "offset": 27097360,
+   "text": "* Haven't you heard of Hyperlink Blocked?"
+  },
+  {
+   "offset": 27151152,
+   "text": "obj_spamton_neo_enem"
+  },
+  {
+   "offset": 27228712,
+   "text": "* Our next ad is a commercial for TENNA!^1! We're gonna be BIG SHOTS!!"
+  },
+  {
+   "offset": 27250508,
+   "text": "* Hope when he becomes a big shot^1, he remembers us little guys down the street."
+  },
+  {
+   "offset": 27610824,
+   "text": "Heaven knows^6&the story that we've born^4&from our hearts^2 "
+  },
+  {
+   "offset": 27611064,
+   "text": "Heaven knows^4&The beauty of the soul^4&and we weep^4 "
+  },
+  {
+   "offset": 27708156,
+   "text": "snd_spamton_laug"
+  },
+  {
+   "offset": 27742332,
+   "text": "spr_npc_most_improved_1997_ch"
+  },
+  {
+   "offset": 27745900,
+   "text": "spr_npc_most_improved_1997_ch"
+  },
+  {
+   "offset": 27778884,
+   "text": "spr_spamton_dar"
+  },
+  {
+   "offset": 27778944,
+   "text": "spr_spamton_idl"
+  },
+  {
+   "offset": 27779024,
+   "text": "spr_spamton_hur"
+  },
+  {
+   "offset": 27779164,
+   "text": "spr_spamton_spare"
+  },
+  {
+   "offset": 27779244,
+   "text": "spr_spamton_jum"
+  },
+  {
+   "offset": 27779268,
+   "text": "spr_spamton_jump_ai"
+  },
+  {
+   "offset": 27779324,
+   "text": "spr_spamton_jump_lan"
+  },
+  {
+   "offset": 27779376,
+   "text": "spr_spamton_laugh_to"
+  },
+  {
+   "offset": 27779444,
+   "text": "spr_spamton_laugh_middl"
+  },
+  {
+   "offset": 27779608,
+   "text": "spr_spamton_laugh_botto"
+  },
+  {
+   "offset": 27779704,
+   "text": "spr_spamton_laugh_lef"
+  },
+  {
+   "offset": 27779732,
+   "text": "spr_spamton_laugh_righ"
+  },
+  {
+   "offset": 27779760,
+   "text": "spr_spamton_laugh_glitc"
+  },
+  {
+   "offset": 27779792,
+   "text": "spr_spamton_head_gro"
+  },
+  {
+   "offset": 27779820,
+   "text": "spr_spamton_dolla"
+  },
+  {
+   "offset": 27779872,
+   "text": "spr_spamton_jumpe"
+  },
+  {
+   "offset": 27779896,
+   "text": "spr_spamton_cheru"
+  },
+  {
+   "offset": 27779920,
+   "text": "spr_spamton_defeat_vine"
+  },
+  {
+   "offset": 27792320,
+   "text": "spr_shop_spamton_bg_battl"
+  },
+  {
+   "offset": 27796020,
+   "text": "spr_dw_church_prophecy_heavenandhell2_ico"
+  },
+  {
+   "offset": 27799704,
+   "text": "spr_dw_church_prophecy_heavenandhell2_icon_ol"
+  },
+  {
+   "offset": 27817012,
+   "text": "spr_shop_spamton_b"
+  },
+  {
+   "offset": 27817036,
+   "text": "spr_shop_spamton"
+  },
+  {
+   "offset": 27817084,
+   "text": "spr_shop_spamton"
+  },
+  {
+   "offset": 27817252,
+   "text": "spr_shop_spamton"
+  },
+  {
+   "offset": 27817304,
+   "text": "spr_shop_spamton"
+  },
+  {
+   "offset": 27817364,
+   "text": "spr_shop_spamton"
+  },
+  {
+   "offset": 27825040,
+   "text": "spr_dw_church_prophecy_heavenandhell"
+  },
+  {
+   "offset": 27832148,
+   "text": "spr_spamtonneo_faceAttack_nos"
+  },
+  {
+   "offset": 27832184,
+   "text": "spr_spamtonneo_faceAttack_nose_bulle"
+  },
+  {
+   "offset": 27832248,
+   "text": "spr_spamtonneo_faceAttack_fac"
+  },
+  {
+   "offset": 27832312,
+   "text": "spr_spamtonneo_faceAttack_mout"
+  },
+  {
+   "offset": 27832348,
+   "text": "spr_spamtonneo_faceAttack_eye"
+  },
+  {
+   "offset": 27832384,
+   "text": "spr_spamtonneo_faceAttack_wis"
+  },
+  {
+   "offset": 27843664,
+   "text": "spr_spamtonneo_faceAttack_nose_bullet_mas"
+  },
+  {
+   "offset": 27844844,
+   "text": "spr_dw_church_prophecy_heavenandhell"
+  },
+  {
+   "offset": 27849964,
+   "text": "spr_dw_church_prophecy_heavenandhell1_ico"
+  },
+  {
+   "offset": 27874600,
+   "text": "spr_spamtonhea"
+  },
+  {
+   "offset": 28259440,
+   "text": "gml_GlobalScript_scr_spamton_hea"
+  }
+ ],
+ "ch5": [
+  {
+   "offset": 22614768,
+   "text": "obj_ch2_room_spamton_shop_exterio"
+  },
+  {
+   "offset": 22655508,
+   "text": "* THEN [[Why]] GO TO A DUMPSTER!!!/"
+  },
+  {
+   "offset": 22655752,
+   "text": "* THat'll be 1997 KROMER."
+  },
+  {
+   "offset": 22729160,
+   "text": "Heavenly light restores a little HP to#one party member. Depends on Magic"
+  },
+  {
+   "offset": 22745580,
+   "text": "A pass for big shots allowed backstage.#Show it to Ramb in front of the door"
+  },
+  {
+   "offset": 22873508,
+   "text": "Heaven piercing dril"
+  },
+  {
+   "offset": 22917116,
+   "text": "gml_Script_scr_spamton_hea"
+  },
+  {
+   "offset": 22917148,
+   "text": "scr_spamton_hea"
+  },
+  {
+   "offset": 23396528,
+   "text": "gml_Script_anon_gml_Object_obj_dw_cliff_netskieclimb_Create_0_1997_gml_Object_obj_dw_cliff_netskieclimb_Create_"
+  },
+  {
+   "offset": 24293192,
+   "text": "* Pastries^1, that spin!^1! Ha ha!^1! Oh^1, it's heaven!!"
+  },
+  {
+   "offset": 24859808,
+   "text": "snd_spamton_laug"
+  },
+  {
+   "offset": 24914916,
+   "text": "spr_npc_most_improved_1997_ch"
+  },
+  {
+   "offset": 24974000,
+   "text": "spr_spamton_dar"
+  },
+  {
+   "offset": 24974068,
+   "text": "spr_spamton_idl"
+  },
+  {
+   "offset": 24974092,
+   "text": "spr_spamton_hur"
+  },
+  {
+   "offset": 24974180,
+   "text": "spr_spamton_spare"
+  },
+  {
+   "offset": 24974204,
+   "text": "spr_spamton_jum"
+  },
+  {
+   "offset": 24974452,
+   "text": "spr_spamton_jump_ai"
+  },
+  {
+   "offset": 24974504,
+   "text": "spr_spamton_jump_lan"
+  },
+  {
+   "offset": 24975140,
+   "text": "spr_spamton_laugh_lef"
+  },
+  {
+   "offset": 24975168,
+   "text": "spr_spamton_laugh_righ"
+  },
+  {
+   "offset": 24975196,
+   "text": "spr_spamton_laugh_glitc"
+  },
+  {
+   "offset": 24975304,
+   "text": "spr_spamton_head_gro"
+  },
+  {
+   "offset": 24975512,
+   "text": "spr_spamton_dolla"
+  },
+  {
+   "offset": 24975620,
+   "text": "spr_spamton_jumpe"
+  },
+  {
+   "offset": 24975684,
+   "text": "spr_spamton_cheru"
+  },
+  {
+   "offset": 25119384,
+   "text": "spr_npc_most_improved_1997_ch"
+  },
+  {
+   "offset": 25130900,
+   "text": "spr_spamtonhea"
+  },
+  {
+   "offset": 25152816,
+   "text": "bg_dw_mansion_spamton_basement_tilese"
+  },
+  {
+   "offset": 25737168,
+   "text": "gml_GlobalScript_scr_spamton_hea"
+  }
+ ]
+}
