@@ -51,3 +51,18 @@ Who you gonna call? **[SOULBUSTER]!!**
 **[[LEGAL RIDER]]:** This parody contains ZERO original lyrics from the 1984 recording "Ghostbusters" by Ray Parker Jr. The title "Ghostbusters," the franchise, and the song are property of their respective [Rights Holders]. This is transformative parody fan content in the spirit of [Fair Use] — a different song about the same [Paranormal Cleanup] lifestyle. If Ray Parker Jr. reads this: [I AIN'T AFRAID OF NO TAKEDOWN] but please accept these eggs as a peace offering. 🥚
 
 **The REAL theme song?** Stream it legally!! Buy the soundtrack!! Support the [1984 Originals]!! THEN sing our version over it and see which one the [Void] prefers!!
+---
+
+## [[INCIDENT REPORT 1997-088]] — [THE BURGER MANIFESTATION]
+
+AAAH!!! GHOSTS IN MY McDONALDS?? WHAAAAT????
+
+**THERE WAS A [Ghost] IN MY BURGER?????!?!?!!**
+
+THE DRIVE-THRU GAVE ME A [[Haunted Meal]]!! I BIT INTO THE [Patty] AND IT SAID **POKNOSEROASENO**!! THE PICKLES WERE [Hyperlink Blocked]!! THE FRIES WERE [Cold Data]!! I ASKED FOR [Kromer Sauce] AND THE WINDOW GAVE ME **A SQLITE FILE**!!!
+
+WHO YOU GONNA CALL?? NOT THE [Manager]!! THE MANAGER IS RONALD!! RONALD 9324867826876 CONFIRMED THE HAUNTING TWICE FROM INSIDE THE [Ice Cream Machine]!!
+
+**[OFFICIAL VERDICT]:** THE BURGER WAS [1997 Sedan Grade] HAUNTED!! THE EGGS IN THE [Happy Meal] HATCHED!! SPAMTON ATE ONE AND BECAME A [BIG SHOT]!!
+
+[THE PROTON PACK IS A SPORK. THE CLEANUP CONTINUES.] 🥚🍔👻
